@@ -1,8 +1,9 @@
 # Boas vindas ao repositório do projeto All For One
 
-- Primeiro projeto do módulo de Back-end na Trybe - Turma 17
+- Segundo projeto do módulo de Back-end na Trybe - Turma 17
 - Abril/2022
 - Projeto realizado individualmente
+- SQL
 
 
 ## Objetivos do Projeto:
